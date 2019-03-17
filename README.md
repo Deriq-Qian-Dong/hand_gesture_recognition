@@ -8,3 +8,37 @@
 
 <div align=center>Fig2.图片模型训练结果</div>
 
+## 识别流程：
+OpenCV读取视频，用OpenPose提取手部的关键点，然后输入到全连接网络识别
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/openpose.jpg"/></div>
+
+<div align=center>Fig3.OpenPose关键点图</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E4%B8%8A.jpg"/></div>
+
+<div align=center>Fig4.上</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E4%B8%8B.jpg"/></div>
+
+<div align=center>Fig5.下</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E5%B7%A6.jpg"/></div>
+
+<div align=center>Fig6.左</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E5%8F%B3.jpg"/></div>
+
+<div align=center>Fig7.右</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E5%BC%A0.jpg"/></div>
+
+<div align=center>Fig7.张</div>
+
+<div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/%E5%90%88.jpg"/></div>
+
+<div align=center>Fig8.合</div>
+
+
+
+
