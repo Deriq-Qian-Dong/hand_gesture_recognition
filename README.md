@@ -9,7 +9,7 @@
 <div align=center>Fig2.图片模型训练结果</div>
 
 ## 识别流程：
-OpenCV读取视频，用OpenPose提取手部的关键点，然后输入到全连接网络识别
+OpenCV读取视频，用OpenPose提取手部的关键点，然后输入到全连接网络识别，识别结果可用于控制播放器
 
 <div align=center><img src="https://github.com/DQ0408/hand_gesture_recognition/blob/master/image/openpose.jpg"/></div>
 
