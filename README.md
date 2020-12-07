@@ -41,6 +41,9 @@ OpenCV读取视频，用OpenPose提取手部的关键点，然后输入到全连
 
 <div align=center>Fig8.合</div>
 
+OpenPose手部模型下载：
+[hand/pose_iter_102000.caffemodel](http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_102000.caffemodel)
+[hand/pose_deploy.prototxt](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/hand/pose_deploy.prototxt)
 
 
 
